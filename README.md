@@ -1,2 +1,2 @@
 # hello_world
-My First (Private) Repository on GitHub
+My First (empty!) Repository on GitHub
